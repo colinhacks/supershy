@@ -1,5 +1,5 @@
 {
-  "name": "z-shy",
+  "name": "zshy",
   "version": "1.0.0",
   "description": "TypeScript HYbridizer - Hybrid (CommonJS/ESM) TypeScript node package builder",
   "author": "Isaac Z. Schlueter <i@izs.me> (https://izs.me)",

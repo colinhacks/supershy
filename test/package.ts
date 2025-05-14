@@ -4,7 +4,7 @@ t.test('load package successfully', async t => {
   const { default: pkg } = await t.mockImport(
     '../dist/esm/package.js',
   )
-  t.equal(pkg.name, 'tshy')
+  t.equal(pkg.name, 'zshy')
   t.equal(pkg.type, 'module')
 })
 
